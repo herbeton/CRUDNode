@@ -1,0 +1,10 @@
+{
+  "name": "CRUDNode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/herbeton/CRUDNode.git",
+  "author": "herbeton <herbeton7@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
