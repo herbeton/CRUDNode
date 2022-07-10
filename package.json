@@ -5,6 +5,9 @@
   "repository": "https://github.com/herbeton/CRUDNode.git",
   "author": "herbeton <herbeton7@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "ts-node-dev --transpile-only src/server.ts"
+  },
   "dependencies": {
     "express": "^4.18.1"
   },
