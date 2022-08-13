@@ -1,3 +1,6 @@
+Video: https://www.youtube.com/watch?v=9AO2hZJsHrs&ab_channel=Rocketseat
+
+
 ⚠ O TypeORM sofreu algumas alterações que ainda não estão refletidas na documentação oficial.
 
 🔹Pra configurar o banco, agora é necessário criar um arquivo dataSource.ts como descrito aqui: https://typeorm.io/data-source
